@@ -1,0 +1,27 @@
+{
+  "name": "food-order-app",
+  "version": "0.0.1",
+  "description": "Mini Front-end Project: แอพสั่งอาหาร (Lab8)",
+  "productName": "Food Order App",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.12",
+    "axios": "^1.7.0",
+    "pinia": "^2.2.0",
+    "quasar": "^2.16.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^2.0.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "sass": "^1.77.0"
+  },
+  "engines": { "node": ">= 18" }
+}
